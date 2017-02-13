@@ -1,0 +1,9 @@
+{
+  print(1); flush.console()
+  Sys.sleep(1)
+  print(2); flush.console()
+  Sys.sleep(1)
+  print(3); flush.console()
+  Sys.sleep(1)
+  }
+beepr::beep(4)
