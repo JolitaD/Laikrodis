@@ -1,3 +1,5 @@
+install.packages("beepr")
+library(beepr)
 {
   print(1); flush.console()
   Sys.sleep(1)
